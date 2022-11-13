@@ -14,6 +14,21 @@ build app that use socket io for real time application in php - laravel and node
 we will learn how to work with socket.io instead of pusher
 
 
+## RUN
+Step 1
+run command "node server"
+
+Step 2
+run command "php artisan serve"
+ 
+then open browser open url
+http://127.0.0.1:8000
+and
+http://127.0.0.1:8000/second
+
+enjoy :)
+
+
 ## Tools
 nodejs, Bootstrap 5 and Jquery
 
